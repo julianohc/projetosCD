@@ -9,3 +9,4 @@ Informe seu nome e link do seu site com a solução do desafio. Solicita-se a se
 6. Lucas Lacerda Oliveira [Desafio 1](https://lucaslcroliveira.netlify.app/)
 7. Elias Ribeiro [Desafio 1](https://eliasrosa.netlify.app/)
 8. Bruna Rodrigues [Desafio 1](https://brunamattos.netlify.app/)
+9. Júlia Gualberto [Desafio 1](https://juliagualberto.netlify.app/)
