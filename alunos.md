@@ -8,3 +8,4 @@ Informe seu nome e link do seu site com a solução do desafio. Solicita-se a se
 5. Matheus Rocha Depoli [Desafio 1](https://matheusrocha99.wixsite.com/mrdepoli)
 6. Lucas Lacerda Oliveira [Desafio 1](https://lucaslcroliveira.netlify.app/)
 7. Elias Ribeiro [Desafio 1](https://eliasrosa.netlify.app/)
+8. Bruna Rodrigues [Desafio 1](https://brunamattos.netlify.app/)
