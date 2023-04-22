@@ -1,4 +1,4 @@
-# introGit
-Um repositório para treinar com Git.
+# Projetos Ciência de Dados
 
-Mais um texto qualquer.
+Listagem de atividades e projetos dos estudantes da disciplina.
+
