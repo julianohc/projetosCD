@@ -1,4 +1,4 @@
-Informe seu nome e link do seu site com a solução do desafio. Requer-se a seguinte sintaxe: Nome Completo [Projeto 1](<<link projeto 1>>)
+Informe seu nome e link do seu site com a solução do desafio. Requer-se a seguinte sintaxe: "Nome Completo [Projeto 1](link projeto 1)" (sem aspas)
  Exemplo: Fabio Fajardo [Desafio 1](https://meusite.com)
 
 1. 
