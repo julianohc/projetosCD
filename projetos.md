@@ -6,7 +6,7 @@ Informe seu nome e link do seu site com a solução do desafio. Requer-se a segu
 3. João Paulo de Paiva Holz [Projeto 1](https://johnholz.github.io/)
 4. José Carlos Soares Junior [Projeto 1](https://www.josecarlosinfo.com/)
 5. Iago Maure Vale [Projeto 2](https://iagos-portoflio.cms.webnode.page/)
-6. 
+6. Paulo Renato [Projeto 1](https://paulolaeber.github.io/projeto-1.html)
 7. 
 8. 
 9. 
