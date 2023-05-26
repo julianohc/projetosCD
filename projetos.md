@@ -7,7 +7,7 @@ Informe seu nome e link do seu site com a solução do desafio. Requer-se a segu
 4. José Carlos Soares Junior [Projeto 1](https://www.josecarlosinfo.com/)
 5. Iago Maure Vale [Projeto 2](https://iagos-portoflio.cms.webnode.page/)
 6. Paulo Renato [Projeto 1](https://paulolaeber.github.io/projeto-1.html)
-7. 
+7. Paulo Renato [Projeto 2](https://paulolaeber.github.io/projeto-2.html)
 8. 
 9. 
 10. 
