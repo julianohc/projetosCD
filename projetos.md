@@ -9,7 +9,8 @@
 3. João Paulo de Paiva Holz [Projeto 1](https://johnholz.github.io/)
 4. José Carlos Soares Junior [Projeto 1](https://www.josecarlosinfo.com/)
 5. Iago Maure Vale [Projeto 2](https://iagos-portoflio.cms.webnode.page/)
-6. Paulo Renato [Projeto 1](https://paulolaeber.github.io/projeto-1.html)
+6. Paulo Renato [Projeto 1](https://paulolaeber.github.io/projeto-1.html) | [Projeto 2](https://paulolaeber.github.io/projeto-2.html)
 7. Lohã Luiz Correa Barbosa [Projeto 1](https://shre.ink/suicidioNoBrasil) | [Projeto 2](https://estatisticonline.wordpress.com/2023/05/25/netflix-viewingactivity/)
+
 
 
