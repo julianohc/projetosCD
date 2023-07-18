@@ -10,4 +10,4 @@
 5. Iago Maure Vale [Projeto 1](https://iagos-portoflio.webnode.page/analise-de-dados/) | [Projeto 2](https://iagos-portoflio.webnode.page/netflix/)
 6. Paulo Renato [Projeto 1](https://paulolaeber.github.io/projeto-1.html) | [Projeto 2](https://paulolaeber.github.io/projeto-2.html)
 7. Lohã Luiz Correa Barbosa [Projeto 1](https://shre.ink/suicidioNoBrasil) | [Projeto 2](https://estatisticonline.wordpress.com/2023/05/25/netflix-viewingactivity/)
-8. Juliano Herzog Caldas [Projeto 1](https://cien60.wordpress.com/2023/07/14/estudo-sobre-dados-de-violencia-contra-mulher/) | [Projeto 2](https://cien60.wordpress.com/2023/06/13/estudos-de-analise-descritiva-em-alguns-dados-da-netflix/)
+8. Juliano Herzog Caldas [Projeto 1](https://cien60.wordpress.com/2023/07/14/estudo-sobre-dados-de-violencia-contra-mulher/) | [Projeto 2](https://cien60.wordpress.com/2023/06/13/estudos-de-analise-descritiva-em-alguns-dados-da-netflix/) | [Projeto 3](https://cien60.wordpress.com/2023/07/17/analise-no-banco-de-dados-de-astronomia/)
